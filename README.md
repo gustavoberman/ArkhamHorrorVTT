@@ -2,6 +2,6 @@
 Arkham Horror LCG para virtualtabletop.io
 
 ## Copyright Disclaimer
-This is fan-made
+The characters, setting, narrative, and all other elements of Arkham Horror The Card Game presented here are copyrighted and trademarked by Fantasy Flight Games. 
 
-The Card Game, both literal and graphical, is copyrighted by Fantasy Flight Games. This application and the corresponding website is not produced, endorsed, supported, or affiliated with Fantasy Flight Games.
+This is a fan-made created solely for non-commercial use, and it is not intended to infringe on any of Fantasy Flight Games' intellectual property in any way.
